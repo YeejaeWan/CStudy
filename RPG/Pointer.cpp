@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
-//포인터 
+//포인터 실습
+
 struct StatInfo {
 	int hp;
 	int attack;
